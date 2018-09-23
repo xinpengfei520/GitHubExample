@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\viewPager\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\viewPager\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\viewPager\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\viewPager\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

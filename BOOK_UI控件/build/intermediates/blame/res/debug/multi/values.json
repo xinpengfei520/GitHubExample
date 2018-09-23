@@ -1,0 +1,275 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 10,
+                        "endColumn": 19,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 44,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 44,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 43,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 43,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 40,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 40,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 48,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 48,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 46,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 46,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 47,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 47,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 41,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 65,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 238,
+                        "endColumn": 62,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 64,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 64,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 64,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 64,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 48,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 190,
+                        "endColumn": 45,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 47,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 47,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 48,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\menu\\add_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\src\\main\\res\\menu\\add_menu.xml"
+    }
+]

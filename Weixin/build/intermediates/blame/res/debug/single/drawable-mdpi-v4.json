@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_search.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_go.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\GitHub_Example\\viewPager\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_voice_search.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_normal.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\Weixin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_normal.png"
+    }
+]

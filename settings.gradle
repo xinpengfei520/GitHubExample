@@ -1,0 +1,4 @@
+include ':app', ':OneStep-master', ':SpinMenu-master', ':SpinMenu_library', ':ActivitySwitcher-master', ':ActivitySwitcher_library', ':CrazyShadow_library', ':CrazyShadow-master', ':Event_demo'
+include ':BOOK_UI控件'
+include ':viewPager'
+include ':Weixin'

@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:7:5-35:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:8:9-45
+activity#com.eoemobile.book.ex_widgetdemo.BOOKActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:15:27-74
+activity#com.eoemobile.book.ex_widgetdemo.ViewTextActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:19:19-50
+activity#com.eoemobile.book.ex_widgetdemo.EditTextActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:20:19-50
+activity#com.eoemobile.book.ex_widgetdemo.CheckBoxActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:21:19-50
+activity#com.eoemobile.book.ex_widgetdemo.RadioGroupActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:22:19-52
+activity#com.eoemobile.book.ex_widgetdemo.SpinnerActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:23:19-49
+activity#com.eoemobile.book.ex_widgetdemo.AutoCompleteTextViewActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:24:9-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:24:19-62
+activity#com.eoemobile.book.ex_widgetdemo.DatePickerActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:25:19-52
+activity#com.eoemobile.book.ex_widgetdemo.TimePickerActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:26:19-52
+activity#com.eoemobile.book.ex_widgetdemo.ProgressBarActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:27:19-53
+activity#com.eoemobile.book.ex_widgetdemo.SeekBarActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:28:19-49
+activity#com.eoemobile.book.ex_widgetdemo.RatingBarActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:29:19-51
+activity#com.eoemobile.book.ex_widgetdemo.ImageViewActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:30:19-51
+activity#com.eoemobile.book.ex_widgetdemo.ImageButtonActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:31:9-56
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:31:19-53
+activity#com.eoemobile.book.ex_widgetdemo.ImageShowActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:32:19-51
+activity#com.eoemobile.book.ex_widgetdemo.GridViewActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:33:19-50
+activity#com.eoemobile.book.ex_widgetdemo.TabDemoActivity
+ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml:34:19-49
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\GitHub_Example\BOOK_UI控件\src\main\AndroidManifest.xml

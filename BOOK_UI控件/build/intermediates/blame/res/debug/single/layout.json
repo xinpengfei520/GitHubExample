@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\seek_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\seek_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\editview.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\editview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\autocomplete.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\tab_demo.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\tab_demo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\image_show.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\image_show.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\grid_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\radio_group.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\radio_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\check_box.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\check_box.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\time_picker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\image_view.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\image_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\image_button.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\image_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\rating_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\rating_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\layout\\date_picker.xml"
+    }
+]

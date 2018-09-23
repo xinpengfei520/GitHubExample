@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eoe_android.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\eoe_android.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\picture_frame.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\picture_frame.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eoe.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\eoe.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\GitHub_Example\\BOOK_UI控件\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
